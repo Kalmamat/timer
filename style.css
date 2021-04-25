@@ -1,0 +1,28 @@
+body{
+    background: black;
+}
+.timer{
+    text-align: center;
+    margin-top: 200px;
+}
+.timer-btns{
+    margin-top: 50px;
+}
+.start-btn{
+    background: forestgreen;
+    color: white;
+}
+.stop-btn{
+    background: red;
+    color: white;
+}
+.btn{
+    padding: 10px 30px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.timer p {
+    font-size: 40px;
+    color: white;
+}
